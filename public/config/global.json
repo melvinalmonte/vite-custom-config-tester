@@ -1,0 +1,6 @@
+{
+  "env": "local",
+  "apiURL": "https://jsonplaceholder.typicode.com/posts",
+  "mocksEnabled": true,
+  "foo": "bar"
+}
