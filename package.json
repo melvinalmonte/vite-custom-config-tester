@@ -13,7 +13,8 @@
     "@tanstack/react-query": "^4.29.12",
     "axios": "^1.4.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "valtio": "^1.10.5"
   },
   "devDependencies": {
     "@types/react": "^18.0.37",
